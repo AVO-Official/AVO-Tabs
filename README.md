@@ -1,6 +1,6 @@
 # AVO-Tabs
 
-![Header Image](images/header.png)
+![Header Image](images/Header.png)
 
 Assign links to open in specific tabs
 
