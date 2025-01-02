@@ -36,7 +36,7 @@ AVO Tabs allows you to quickly assign links to open in specific tabs, making it 
 -Double-click the ZIP file.  
 -The contents will automatically unzip into a folder in the same location.
 
-Be sure to unzip the second file called "AVO Tabs - Version 1.0" as well
+Be sure to unzip the second file called "AVO Tabs - Version 1.0" as well. This is the file we'll be uploading to Chrome. You'll unzip AVO-Tabs-main.zip first and then AVO Tabs - Version 1.0.zip
 
 ### Step 3 - Install the plugin on chrome
 
